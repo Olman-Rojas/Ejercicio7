@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olmi\\Desktop\\Backup C\u002B\u002B\\Ejercicio_Siete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12F5F2FB-7D29-4983-9C6E-956D20BF453D}|Ejercicio_Siete.vcxproj|C:\\Users\\Olmi\\Desktop\\Backup C\u002B\u002B\\Ejercicio_Siete\\Ejercicio_Siete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12F5F2FB-7D29-4983-9C6E-956D20BF453D}|Ejercicio_Siete.vcxproj|solutionrelative:Ejercicio_Siete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio_Siete.cpp",
+              "DocumentMoniker": "C:\\Users\\Olmi\\Desktop\\Backup C\u002B\u002B\\Ejercicio_Siete\\Ejercicio_Siete.cpp",
+              "RelativeDocumentMoniker": "Ejercicio_Siete.cpp",
+              "ToolTip": "C:\\Users\\Olmi\\Desktop\\Backup C\u002B\u002B\\Ejercicio_Siete\\Ejercicio_Siete.cpp",
+              "RelativeToolTip": "Ejercicio_Siete.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T02:38:10.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
